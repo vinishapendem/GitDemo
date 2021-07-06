@@ -1,2 +1,5 @@
 Welcome to the version control
+user.email=username@gmail.com
+user.name=username
+core.editor=notepad++.exe -multiInst -nosession
 Welcome to the version control
